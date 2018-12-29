@@ -1,0 +1,8 @@
+.jg_nr p {
+    display: inline-block;
+    width: 50%;
+    height: 30px;
+    line-height: 30px;
+    text-align: left;
+    float: left;
+}
